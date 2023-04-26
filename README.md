@@ -6,5 +6,4 @@ https://www.sfml-dev.org/download.php
 SFML Creating and configuring a SFML project
 https://www.sfml-dev.org/tutorials/2.5/start-vc.php
 
-실행
-SFML_hello 를 pork한 후 Visual Studio 로 실행
+실행: 전부 다운로드한 후 Visual Studio 로 실행
